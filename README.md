@@ -5,6 +5,9 @@ Agent evaluation harness and observability dashboard. Measures agent performance
 every tool call (allowed / denied / approval). Includes a continuous evaluation
 suite for RAG and workflow outputs.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945804.svg)](https://doi.org/10.5281/zenodo.22945804)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--8515--2727-brightgreen.svg)](https://orcid.org/0009-0009-8515-2727)
+
 ## Features
 
 - Agent Metrics — latency, token usage, success rate, error classification
